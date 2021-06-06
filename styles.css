@@ -1,0 +1,14 @@
+.splash-container{
+    width: 100vw;
+    background-color: #66A3FF;
+    height: 100vh;
+}
+
+.splash{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
